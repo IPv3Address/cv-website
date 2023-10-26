@@ -1,0 +1,39 @@
+
+body {
+    background-color: #D7BBF5
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: white;
+    width: 10%;
+    border-width: 7px;
+}
+
+h1 {
+    color: #6528F7;
+}
+h1:hover {
+    font-weight: lighter;
+}
+
+h3 {
+    color: #6528F7;
+}
+
+img:hover {
+    border-radius: 30%;
+}
+
+.hobit {
+    font-style: italic ;
+}
+
+.rrethi {
+    border-radius: 100%;
+}
+
+#Titulli {
+ font-family: 'Roboto Mono', monospace;
+}
+
